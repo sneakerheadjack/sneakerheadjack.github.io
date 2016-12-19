@@ -24,23 +24,6 @@ h2 {
     text-align: center;
     padding-bottom: 0px
 }
-.nav {
-    position: relative;
-    padding: 9px;
-    background-color: white;
-    margin-bottom: 0px;
-    text-align: center;
-}
-.nav ul,li,a {
-    display: inline;
-    padding-left: 50px;
-    padding-right: 50px;
-    text-decoration: none;
-    color: gray;
-}
-.nav ul,li,a:hover {
-    color: black;
-}
 .subscribe {
     background-color: whitesmoke;
     border-top: 15px solid white;
