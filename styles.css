@@ -36,10 +36,10 @@ h2 {
     padding-left: 50px;
     padding-right: 50px;
     text-decoration: none;
-    color: gray;
+    color: black;
 }
 .nav ul,li,a:hover {
-    color: black;
+    color: grey;
 }
 .subscribe {
     background-color: whitesmoke;
@@ -48,6 +48,7 @@ h2 {
     padding: 15px;
 }
 .intro_paragraph {
+    color: gray;
     background-color: whitesmoke;
     border-bottom: 15px solid white;
     border-top: 15px solid white;
@@ -68,6 +69,11 @@ h2 {
     border-top: 1px solid white;
 }
 .who {
+    color: gray;
+    background-color: whitesmoke;
     padding-left: 500px;
     padding-right: 500px;
+}
+.contact {
+    color: gray
 }
