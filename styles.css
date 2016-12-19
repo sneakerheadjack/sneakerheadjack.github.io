@@ -69,6 +69,8 @@ h2 {
     border-top: 1px solid white;
 }
 .who {
+    padding-top: 15px;
+    padding-bottom: 15px;
     color: darkgray;
     background-color: whitesmoke;
     padding-left: 500px;
