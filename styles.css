@@ -7,9 +7,11 @@ body {
     margin: 0%;  
 }
 .logo {
+    margin:auto;
+    width: auto;
+    height: auto;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px;
 }
 a {
     display: inline;
@@ -52,6 +54,8 @@ h2 {
     border-top: 1px solid white;
 }
 .who {
+    border-bottom: 15px solid white;
+    border-top: 15px solid white;
     text-align: left; 
     padding-top: 15px;
     padding-bottom: 15px;
@@ -65,4 +69,11 @@ h2 {
 }
 .jack {
     text-align: center
+}
+.logo img {
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+.logo:hover img {
+    transform: scale(1.1,1.1)
 }
